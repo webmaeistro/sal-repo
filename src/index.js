@@ -109,13 +109,15 @@ function App() {
       <h1>
        Silje
         <br />
-        <br />
+       // <br />
         Alexandra
         <br />
-        <br />
+      //  <br />
         Levorsen
       </h1>
       <a href="https://www.facebook.com/siljelevorsen1992">Facebook</a>
+      <br />
+      <a href="https://www.instagram.com/siljus1992">Instagram</a>
     </>
   )
 }
