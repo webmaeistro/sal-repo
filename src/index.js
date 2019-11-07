@@ -107,17 +107,15 @@ function App() {
         </Suspense>
       </Canvas>
       <h1>
-       Silje
+        Silje
         <br />
-       // <br />
         Alexandra
         <br />
-      //  <br />
         Levorsen
       </h1>
-      <a href="https://www.facebook.com/siljelevorsen1992">Facebook</a>
-      <br />
-      <a href="https://www.instagram.com/siljus1992">Instagram</a>
+      <a href="https://www.facebook.com/siljelevorsen1992">Facebook</a>|<a href="https://www.instagram.com/siljus1992">Instagram</a>
+      
+      
     </>
   )
 }
