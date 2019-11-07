@@ -31,7 +31,7 @@ body {
 }
 
 h1 {
-  position: relative;
+  position: absolute;
   top: 120px;
   left: 50px;
   font-family: "Roboto", sans-serif;
@@ -44,6 +44,7 @@ h1 {
 
 @media only screen and (max-width: 1024px) {
   h1 {
+    position: absolute;
     font-family: "Roboto", sans-serif;
     font-size: 6em;
     letter-spacing: -5px;
