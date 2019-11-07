@@ -31,21 +31,23 @@ body {
 }
 
 h1 {
-  position: absolute;
-  top: 360px;
+  position: relative;
+  top: 120px;
   left: 50px;
   font-family: "Roboto", sans-serif;
-  font-size: 10em;
+  font-size: 7em;
   margin: 0;
   color: rgba(253, 253, 253, 0.945);
   line-height: 0.58em;
   letter-spacing: 1px;
 }
 
-@media only screen and (max-width: 800px) {
+@media only screen and (max-width: 1024px) {
   h1 {
+    font-family: "Roboto", sans-serif;
     font-size: 6em;
-    letter-spacing: -1px;
+    letter-spacing: -5px;
+    color: rgba(253, 253, 253, 0.945);
   }
 }
 
